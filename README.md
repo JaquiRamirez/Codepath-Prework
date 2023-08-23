@@ -17,6 +17,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+![codePath-Prework](https://github.com/JaquiRamirez/Codepath-Prework/assets/112433777/c5b38455-f905-4821-b464-829ec09f5e5f)
 
 <img src='https://imgur.com/a/L9cNUFe.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
