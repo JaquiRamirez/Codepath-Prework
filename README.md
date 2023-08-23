@@ -3,7 +3,7 @@
 
 Submitted by: **Jaqueline Ramirez**
 
-**Color Changing** is an app that changes colors when you press the change button [TODO] 
+**Color Changing** [is an app that changes colors when you press the change button}
 
 Time spent: **2** hours spent in total
 
@@ -26,17 +26,25 @@ GIF created with igmur.com
    1.Instagram
     - Being able to slide to the left and seeing your messages
     - Being able to add a story by clicking your profile picture
+    
    2.Snapchat
     - Seeing your friends location
     - Having square templates in the discover section and seeing the pictures
+    
    3.TikTok
     - Having square templates and being able to move for a bit
     - Being able to change my display to light or dark
+    
    4.Messages
     - Being able to pin people messages
     - Being able to send a message with an effect
     
-    I would like to build an app similar to Instagram. However, there are somethings that could be improved. Such as allowing reels to replay themselves whenever they show in someones feed. Being able to slide into someones account when watching a reel. Adding a feature in where you can put GIF's in your profile picture. 
+    I would like to build an app similar to Instagram. However, there are 
+    somethings that could be improved. Such as allowing reels to replay 
+    themselves whenever they show in someones feed. Being able to slide 
+    into someones account when watching a reel. Adding a feature in where you can 
+    put GIF's in your profile picture. 
+
 
 ## Notes
   The only trouble I had was connecting my button to its function.
