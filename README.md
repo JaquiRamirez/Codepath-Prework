@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/L9cNUFe.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://imgur.com/a/L9cNUFe.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with igmur.com
 
@@ -31,6 +31,7 @@ GIF created with igmur.com
     
     
    2.Snapchat
+   
     - Seeing your friends location
     
     - Having square templates in the discover section and seeing the pictures
@@ -48,6 +49,7 @@ GIF created with igmur.com
     - Being able to pin people messages
     
     - Being able to send a message with an effect
+    
     
     I would like to build an app similar to Instagram. However, there are 
     somethings that could be improved. Such as allowing reels to replay 
