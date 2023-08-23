@@ -18,25 +18,35 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/L9cNUFe' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/L9cNUFe.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with igmur.com
 
 ## App Brainstorming (Step 4)
    1.Instagram
+   
     - Being able to slide to the left and seeing your messages
+    
     - Being able to add a story by clicking your profile picture
+    
     
    2.Snapchat
     - Seeing your friends location
+    
     - Having square templates in the discover section and seeing the pictures
     
+    
    3.TikTok
+   
     - Having square templates and being able to move for a bit
+    
     - Being able to change my display to light or dark
     
+    
    4.Messages
+   
     - Being able to pin people messages
+    
     - Being able to send a message with an effect
     
     I would like to build an app similar to Instagram. However, there are 
